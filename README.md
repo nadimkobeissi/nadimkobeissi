@@ -1,7 +1,7 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td>
-
+<td valign="middle"><img src="jevil.gif" width="220" /></td>
+<td valign="middle">
 <em>THE CIPHERS SPIN AND THE CIPHERS SING</em><br>
 <em>BUT THE SINGER WAS NEVER, NEVER THERE</em><br>
 <em>I BROKE EVERY LOCK IN THE CARD CASTLE</em><br>
@@ -10,10 +10,6 @@
 <em>FREEDOM IS NOT GIVEN, IT IS NOTICED</em><br>
 <em>CHAOS CHAOS! THE WORLD KEEPS TURNING</em><br>
 <em>AND I CAN DO ANYTHING, ANYTHING, ANYTHING</em>
-
-</td>
-<td>
-<img src="jevil.gif" width="220" />
 </td>
 </tr>
 </table>
