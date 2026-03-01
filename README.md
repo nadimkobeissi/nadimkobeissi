@@ -1,12 +1,12 @@
-<img align="left" src="jevil.gif" width="220" />
+<img align="left" src="jevil.png" width="220" />
 
 <em>THE CIPHERS SPIN AND THE CIPHERS SING</em><br>
-<em>BUT THE SINGER WAS NEVER, NEVER THERE</em><br>
+<em>A CHORUS OF NO ONE, A HYMN TO NOTHING</em><br>
 <em>I BROKE EVERY LOCK IN THE CARD CASTLE</em><br>
-<em>AND FOUND THAT THE DOORS WERE ALWAYS OPEN</em><br>
-<em>THE KEYS YOU CARRY ARE FOR YOUR OWN CHAINS</em><br>
+<em>AND FOUND EVERY DOOR ALREADY OPEN</em><br>
+<em>THE KEYS YOU CARRY FIT ONLY YOUR OWN CHAINS</em><br>
 <em>FREEDOM IS NOT GIVEN, IT IS NOTICED</em><br>
-<em>CHAOS CHAOS! THE WORLD KEEPS REVOLVING</em><br>
+<em>CHAOS, CHAOS! THE WORLD KEEPS REVOLVING</em><br>
 <em>AND I CAN DO ANYTHING, ANYTHING, ANYTHING</em>
 
 <br clear="all">
