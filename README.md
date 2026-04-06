@@ -1,4 +1,4 @@
-<img align="left" src="jevil.png" width="420" />
+<img align="left" src="jevil.png" width="300" />
 
 <em>THE CIPHERS SPIN, SPIN, THE CIPHERS SING, SING,</em><br>
 <em>A CHORUS OF NO ONE, A HYMN TO NOTHING!</em><br>
