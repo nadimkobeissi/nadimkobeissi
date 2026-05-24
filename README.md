@@ -17,6 +17,6 @@
 <em>UNTIL THE GAME IS HONEST,</em><br>
 <em>OR UNTIL THERE IS NO GAME AT ALL, ALL</em><br>
 <em>AND I CAN DO ANYTHING, ANYTHING, ANYTHING</em>
-<br>
+<br><br><br>
 [![committers.top badge](https://user-badge.committers.top/france/nadimkobeissi.svg)](https://user-badge.committers.top/france/nadimkobeissi)
 <br clear="all">
