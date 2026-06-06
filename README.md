@@ -1,4 +1,4 @@
-<img align="left" src="jevil.png" width="300" />
+<img align="left" src="jevil2.webp" width="300" />
 
 <em>THE CIPHERS SPIN, SPIN, THE CIPHERS SING, SING,</em><br>
 <em>A CHORUS OF NO ONE, A HYMN TO NOTHING!</em><br>
@@ -17,6 +17,4 @@
 <em>UNTIL THE GAME IS HONEST,</em><br>
 <em>OR UNTIL THERE IS NO GAME AT ALL, ALL</em><br>
 <em>AND I CAN DO ANYTHING, ANYTHING, ANYTHING</em>
-<br><br><br>
-[![committers.top badge](https://user-badge.committers.top/france/nadimkobeissi.svg)](https://user-badge.committers.top/france/nadimkobeissi)
 <br clear="all">
